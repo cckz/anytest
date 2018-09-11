@@ -1,0 +1,6 @@
+framework module Pods_ExamNotarius {
+  umbrella header "Pods-ExamNotarius-umbrella.h"
+
+  export *
+  module * { export * }
+}
